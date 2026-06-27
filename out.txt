@@ -1,9 +1,0 @@
-[32m  INFO[0m: Launching config: "/home/retard/Downloads/quickshell/test.qml"
-[32m  INFO[0m: Shell ID: "c13db96a66eadfe31633bf0b32414faa" Path ID "c13db96a66eadfe31633bf0b32414faa"
-[32m  INFO[0m: Saving logs to "/run/user/1000/quickshell/by-id/yjo3p8e9ht/log.qslog"
-[32m  INFO[0m: QML tooling support enabled
-[33m  WARN[0m: Signal QQmlEngine::quit() emitted, but no receivers connected to handle it.
-[32m  INFO[0m: Configuration Loaded
-[32m  INFO[0m: Reloading configuration...
-[33m  WARN[0m: Signal QQmlEngine::quit() emitted, but no receivers connected to handle it.
-[32m  INFO[0m: Configuration Loaded
