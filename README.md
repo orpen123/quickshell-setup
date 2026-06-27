@@ -1,5 +1,7 @@
 # Quickshell Wayland Bar
 
+![Screenshot of the setup](assets/screenshot.png)
+
 A highly customizable, beautiful, and dynamic top bar and shell environment for Wayland compositors (like Hyprland, Sway), built entirely using [Quickshell](https://git.outfoxxed.me/outfoxxed/quickshell) and QML.
 
 ## ✨ Features
