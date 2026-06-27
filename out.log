@@ -1,0 +1,6 @@
+[32m  INFO[0m: Launching config: "/home/retard/Downloads/quickshell/shell.qml"
+[32m  INFO[0m: Shell ID: "37fab5c6fd00f6f9b46f1bdd6ffebd2b" Path ID "37fab5c6fd00f6f9b46f1bdd6ffebd2b"
+[32m  INFO[0m: Saving logs to "/run/user/1000/quickshell/by-id/2ai78h9ht/log.qslog"
+[33m  WARN[97m quickshell.service.notifications[0m: Could not register notification server at org.freedesktop.Notifications, presumably because one is already registered.
+[33m  WARN[97m quickshell.service.notifications[0m: Registration will be attempted again if the active service is unregistered.
+[32m  INFO[0m: Configuration Loaded
