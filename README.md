@@ -1,6 +1,20 @@
 # Quickshell Wayland Bar
 
-![Screenshot of the setup](assets/screenshot.png)
+### 🖥️ Main Setup
+![Main Setup](assets/main_setup.png)
+The main view showing a clean and minimal top bar with the central pill displaying the clock.
+
+### 🎛️ Control Center
+![Control Center](assets/control_center.png)
+An interactive control center providing quick access to Wi-Fi, Bluetooth, Audio, Display, and Night Light toggles, along with volume controls and an integrated media player.
+
+### 📅 Calendar View
+![Calendar](assets/calendar.png)
+A drop-down calendar view for quick date checking and planning directly from the top bar.
+
+### 🖼️ Wallpaper Switcher
+![Wallpaper Switcher](assets/wallpaper_switcher.png)
+An interactive card to manage and seamlessly switch your desktop background.
 
 A highly customizable, beautiful, and dynamic top bar and shell environment for Wayland compositors (like Hyprland, Sway), built entirely using [Quickshell](https://git.outfoxxed.me/outfoxxed/quickshell) and QML.
 
